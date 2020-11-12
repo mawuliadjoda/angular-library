@@ -1,4 +1,5 @@
 # angular-library
+https://www.samarpaninfotech.com/blog/how-to-create-library-in-angular-tutorial/
 
 ng new custom-loader
 cd custom-loader
